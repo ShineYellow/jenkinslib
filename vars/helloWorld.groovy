@@ -7,7 +7,7 @@ def info(msg){
     echo "${msg}"
 }
 
-def yamlfile(file){
+def yamlfile(){
   return "some files"
 }
 
