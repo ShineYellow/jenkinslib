@@ -1,10 +1,10 @@
 def call(){
+   helper()
     sh "echo Hello World!"
 }
 
 def info(msg){
     echo "${msg}"
-   helper()
 }
 
 def yamlfile(file){
