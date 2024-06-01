@@ -1,7 +1,6 @@
 def call(){
     
 
-   def misc = load './misc.groovy'
    misc.helper()
     sh "echo Hello World!"
 }
