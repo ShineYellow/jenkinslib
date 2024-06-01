@@ -1,6 +1,6 @@
 
 
 def helper() {
-    return "I'm a helper"
+    echo "I'm a helper"
 }
 
